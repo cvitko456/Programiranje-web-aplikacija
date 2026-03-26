@@ -1,0 +1,11 @@
+# Ignoriraj XAMPP specifične datoteke
+*.log
+*.tmp
+
+# Ignoriraj OS datoteke
+.DS_Store
+Thumbs.db
+
+# Ako imate osjetljive podatke
+config.php
+*.env
