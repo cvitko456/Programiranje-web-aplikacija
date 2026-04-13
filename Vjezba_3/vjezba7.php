@@ -1,5 +1,5 @@
 <?php
-    $naslov = "PHP dokument - Vježba 6";
+    $naslov = "PHP dokument - Vježba 7";
     $autor = "Josip Cvitković";
 
     $ocjene = [1 => "", 2 => ""];
